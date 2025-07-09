@@ -2,7 +2,7 @@
 
 This is a backend RESTful API for a hospital management system developed using **Spring Boot**. It provides endpoints to manage appointments, schedules, users (patients and doctors), services, and health packages. This project is designed to serve as the backend foundation for a full-stack medical or hospital web application.
 
-> 💡 You can find the frontend here: [Hospital Website Frontend (Angular)]()
+> 💡 You can find the frontend here: [Hospital Website Frontend (Angular)](https://github.com/AlejoAmaris03/HospitalWebsiteFronted)
 
 ---
 
@@ -38,8 +38,8 @@ This is a backend RESTful API for a hospital management system developed using *
 
 1. **Clone the repo**
    ```bash
-   git clone https://github.com/AlejoAmaris03/FirstSpringBootProject_EcommerceBackend.git
-   cd FirstSpringBootProject_EcommerceBackend-main
+   git clone https://github.com/AlejoAmaris03/HospitalWebsiteBackend.git
+   cd HospitalWebsiteBackend-main
 
 2. **Configure DB in application.properties**
    ```bash

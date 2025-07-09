@@ -60,6 +60,6 @@ This is a backend RESTful API for a hospital management system developed using *
   > 📝 You can log in with the following default administrator account, which is automatically created when the application starts.
 
 👤 Username:    admin  
-🔑 Password: admin123
+🔑 Password: 123
  
 - This account has full access to manage users, appointments, schedules, services, and packages.

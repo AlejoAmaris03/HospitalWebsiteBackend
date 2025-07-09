@@ -57,7 +57,8 @@ This is a backend RESTful API for a hospital management system developed using *
 5. The app should be running at: http://localhost:8080
 
 ### Access with Default Admin Credentials
-> 📝 You can log in with the following default administrator account, which is automatically created when the application starts.
+  > 📝 You can log in with the following default administrator account, which is automatically created when the application starts.
+
 👤 Username:    admin  
 🔑 Password: admin123
  
